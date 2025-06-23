@@ -1,4 +1,4 @@
-# ☣️ whoami
+# 🧑‍🔬☣️ whoami 🧪
 
 Hi. I build Windows malware in Rust just to understand how these things work.  
 How code becomes presence, how persistence is earned, and how a program becomes something more than just a file and become a nightmare.
@@ -19,21 +19,21 @@ I like the moment when it starts to act like it's alive.
 ---
 ## 🛠 Projects I’m exploring ¯\\_(ツ)_/¯
 
-#### `Reflective PE loader`
+#### [`Reflective PE loader`](https://github.com/Arasimnida/reflective-pe-loader)
 
 Manual in-memory PE loading in Rust. No touching disk, no LoadLibrary.  
 Implements relocations, imports, TLS, memory protections, and DllMain execution.
 
 > Goal: Digital BSL-4.
 
-#### `Process injection techniques`
+#### [`Process injection techniques`](https://github.com/Arasimnida/windows-process-injection)
 
 Non-exhaustive collection of classic and modern DLL/shellcode injection methods.  
 Everything modular and runnable from the CLI.
 
 > Goal: Understand how Windows injectors work.
 
-#### `antilysis`
+#### [`antilysis`](https://github.com/percept-denigrate/antilysis)
 
 Rust crate developed with a friend for detecting analysis environments:
 - Tooling presence, MAC patterns, sandbox artifacts, user interaction checks  
