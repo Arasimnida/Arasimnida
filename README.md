@@ -10,8 +10,9 @@ Rust is the tool. Curiosity is the motive.
 I like the moment when it starts to act like it's alive.
 
 > **⚠️ WARNING**
->   This code is provided for educational and research purposes only.  
->   You are solely responsible for how you use it.  
+>
+>   The code is provided for educational and research purposes only.
+>   You are solely responsible for how you use it.
 >   Test everything in isolated, controlled environments. Never deploy outside lab conditions.
 >
 > **Malware is illegal and for nerds.**
